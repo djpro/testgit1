@@ -6,3 +6,5 @@ version 3
 change for remote git !!!
 
 add by dev branch !!!
+
+change for master !!!
